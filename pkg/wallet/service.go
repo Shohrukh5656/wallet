@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
-	"github.com/bdaler/wallet/pkg/types"
+	"github.com/Shohrukh5656/wallet/pkg/types"
 	"github.com/google/uuid"
 	"io"
 	"io/ioutil"

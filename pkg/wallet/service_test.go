@@ -2,7 +2,7 @@ package wallet
 
 import (
 	"errors"
-	"github.com/bdaler/wallet/pkg/types"
+	"github.com/Shohrukh5656/wallet/pkg/types"
 	"github.com/google/uuid"
 	"os"
 	"path/filepath"
